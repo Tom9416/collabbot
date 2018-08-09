@@ -14,13 +14,13 @@ let attachments = [
   {
     title: 'Collabhelp will help you find all the collaboration tools you need',
     color: '#2FA44F',
-    text: '`/collabhelp help` returns all the commands you can do \n`/collabhelp how to use lifesize` will show you how to use lifesize',
+    text: '`/how help` returns all the commands you can do \n`/how to use lifesize` will show you how to use lifesize',
     mrkdwn_in: ['text']
   },
   {
     title: 'Configuring Collabhelp',
     color: '#E3E4E6',
-    text: '`/collabhelp help` ... you\'re lookin at it! \n',
+    text: '`/how help` ... you\'re lookin at it! \n',
     mrkdwn_in: ['text']
   }
 ]
